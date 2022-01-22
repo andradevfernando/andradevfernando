@@ -16,7 +16,13 @@
 - My favorite hobbies are listening to music, sports and playing games
 - I am willing to evolve my skills in the developing world, specially in the .NET environment and microsoft tecnology
 
-<!---
-Beryan0/Beryan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
+
+<p align="right">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6d91d043569585.57f44be46ac93.gif"/>
+</p>
+
+<p align ="right">
+<font size ="4">Um gif da série que me inspirou a ser um desenvolvedor</font>
+<p align ="right">
+<font size ="4">A gif of the TV series which inspired me to become a developer</font>
