@@ -1,4 +1,6 @@
-![alt text](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6 "Logo Title Text 1")
+<p align="center">
+<img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp"/>
+</p>
 
 # Seja bem-vindo ao meu perfil!!!
 
