@@ -14,15 +14,15 @@
 
 #
 
-<font size = "5">📈 Minhas ações no GitHub | My GitHub Status
+<font size = "5">📈 Minhas ações no GitHub | My GitHub Status</font>
 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
 <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
-<!-- <p align=""> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/> -->
+<p align=""> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
 
 #
 
-<font size = "5">Onde me encontrar | Where to find me
+<font size = "5">Onde me encontrar | Where to find me </font>
 
 <p>
 <a href="https://github.com/beryan0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <!-- GitHub Button -->
@@ -37,7 +37,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6d91d043569585.57f44be46ac93.gif"/>
 </p>
 
-<p align ="right">
-<font size ="4">Um gif da série que me inspirou a ser um desenvolvedor</font>
-<p align ="right">
-<font size ="4">A gif of the TV series which inspired me to become a developer</font>
+<p align ="right"><font size ="10">Um gif da série que me inspirou a ser um desenvolvedor</font>
+<p align ="right"><font size ="4">A gif of the TV series which inspired me to become a developer</font>
