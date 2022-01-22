@@ -1,3 +1,5 @@
+![alt text](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6 "Logo Title Text 1")
+
 # Seja bem-vindo ao meu perfil!!!
 
 - Me chamo Fernando Andrade, também conhecido como @Beryan0
