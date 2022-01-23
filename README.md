@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&theme=gotham&layout=compact"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&theme=gotham"/>
 
 #
 
