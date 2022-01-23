@@ -1,11 +1,11 @@
-# Seja bem-vindo ao meu perfil!!!
+# Seja bem-vindo ao meu perfil
 
 - Me chamo Fernando Andrade, 22, também conhecido como @Beryan0
 - <p align="left"> Sou do Brasil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1200px-Brazilian_flag_icon_round.svg.png" width="14"/>
 - Meus hobbies favoritos são ouvir música, praticar esportes e jogar video-games
 - Pretendo evoluir muito no mundo do desenvolvimento, principalmente com .NET e tecnologia microsoft
 
-# Welcome to my profile!!!
+# Welcome to my profile
 
 - I’m Fernando Andrade, 22, AKA @Beryan0
 - <p align="left"> From Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1200px-Brazilian_flag_icon_round.svg.png" width="14"/>
@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryan0&show_icons=true&theme=gotham&layout=compact"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&theme=gotham"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Beryan0&theme=gotham&layout=compact"/>
 
 #
 
