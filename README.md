@@ -37,5 +37,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6d91d043569585.57f44be46ac93.gif"/>
 </p>
 
-<p align ="right"><font size ="10pt">Um gif da série que me inspirou a ser um desenvolvedor</font></p>
-<p align ="right"><font size ="8pt">A gif of the TV series which inspired me to become a developer</font></p>
+<p align ="right"><font size="+2">Um gif da série que me inspirou a ser um desenvolvedor</p>
+<p align ="right">A gif of the TV series which inspired me to become a developer</p></font>
