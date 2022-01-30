@@ -26,6 +26,8 @@
 
 <a href="https://github.com/Beryan0/RPG-PROJECT" target="_blank"><img alt="Github" src="images\mhrise.png" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/9fbae58c-c16c-4cdc-ae82-8285f6392233/project/87e4dd91-0e6c-410b-aef7-835d10e6f88f.svg)](https://wakatime.com/badge/user/9fbae58c-c16c-4cdc-ae82-8285f6392233/project/87e4dd91-0e6c-410b-aef7-835d10e6f88f)
+
 #
 
 <font size = "5">Onde me encontrar | Where to find me </font>
