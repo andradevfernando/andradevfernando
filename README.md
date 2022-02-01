@@ -1,13 +1,13 @@
 # Seja bem-vindo ao meu perfil
 
-- Me chamo Fernando Andrade, 22, também conhecido como @Beryan0
+- Me chamo Fernando Andrade, 22
 - <p align="left"> Sou do Brasil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1200px-Brazilian_flag_icon_round.svg.png" width="14"/>
 - Meus hobbies favoritos são ouvir música, praticar esportes e jogar video-games
 - Pretendo evoluir muito no mundo do desenvolvimento, principalmente com .NET e tecnologia microsoft
 
 # Welcome to my profile
 
-- I’m Fernando Andrade, 22, AKA @Beryan0
+- I’m Fernando Andrade, 22
 - <p align="left"> From Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1200px-Brazilian_flag_icon_round.svg.png" width="14"/>
 - My favorite hobbies are listening to music, sports and playing games
 - I am willing to evolve my skills in the developing world, specially in the .NET environment and microsoft tecnology
